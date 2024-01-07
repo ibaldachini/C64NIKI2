@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "C64NIKI2")(type "KiCad")(uri "${KIPRJMOD}/C64NIKI2.kicad_sym")(options "")(descr ""))
+)
