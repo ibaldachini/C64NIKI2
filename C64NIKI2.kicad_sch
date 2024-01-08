@@ -4585,7 +4585,7 @@
     (property "Value" "BC237" (at 121.92 80.01 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_TO_SOT_THT:TO-92_Inline" (at 121.92 80.645 0)
+    (property "Footprint" "Package_TO_SOT_THT:TO-92_Wide" (at 121.92 80.645 0)
       (effects (font (size 1.27 1.27) italic) (justify left) hide)
     )
     (property "Datasheet" "http://www.onsemi.com/pub_link/Collateral/BC237-D.PDF" (at 127 78.74 0)
