@@ -1,4 +1,4 @@
-22647171986707342
+22642061037467477
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -92175,27 +92175,6 @@ transformer flyback
 0
 14
 14
-Transistor_Power
-GaN_Systems_GaNPX-3_5x6.6mm_Drain2.93x0.6mm
-GaN Systems GaNPX GS66502B Package, https://gansystems.com/wp-content/uploads/2020/04/GS66502B-DS-Rev-200402.pdf
-ganpx gs66502b
-0
-7
-3
-Transistor_Power
-GaN_Systems_GaNPX-3_5x6.6mm_Drain3.76x0.6mm
-GaN Systems GaNPX GS66504B Package, https://gansystems.com/wp-content/uploads/2020/04/GS66504B-DS-Rev-200402.pdf
-ganpx gs66504b
-0
-7
-3
-Transistor_Power
-GaN_Systems_GaNPX-4_7x8.4mm
-GaN Systems GaNPX GS66508B Package, https://gansystems.com/wp-content/uploads/2020/04/GS66508B-DS-Rev-200402.pdf
-ganpx gs66508b
-0
-15
-4
 Transistor_Power_Module
 Infineon_AG-ECONO2
 28-lead TH, EconoPACK 2, same as Littelfuse_Package_H_XN2MM, https://www.infineon.com/dgdl/Infineon-FS75R07N2E4-DS-v02_00-en_de.pdf?fileId=db3a30432f5008fe012f52f916333979
