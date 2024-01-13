@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/home/ibaldachini/project/C64NIKIII/C64NIKI2.kicad_sch")
-    (date "Fri Jan 12 20:53:36 2024")
+    (date "Sat Jan 13 11:18:18 2024")
     (tool "Eeschema 7.0.9+dfsg-1")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -305,7 +305,7 @@
       (property (name "ki_description") (value "Quad buffer 3-State outputs"))
       (property (name "ki_keywords") (value "TTL buffer 3State"))
       (sheetpath (names "/") (tstamps "/"))
-      (tstamps "2518ad6f-0291-4c66-bc45-814b1759e4b4" "3078fd48-6795-4889-9ea3-7dff6ea3d286" "1c78a330-3fbc-44fd-a47d-443ff20a6285" "a2be4c40-33bc-488c-bb0f-ef29059a5652" "1c41db15-d579-4777-832a-8cfdfcf26bbe"))
+      (tstamps "3078fd48-6795-4889-9ea3-7dff6ea3d286" "2518ad6f-0291-4c66-bc45-814b1759e4b4" "a2be4c40-33bc-488c-bb0f-ef29059a5652" "1c78a330-3fbc-44fd-a47d-443ff20a6285" "1c41db15-d579-4777-832a-8cfdfcf26bbe"))
     (comp (ref "U4")
       (value "74LS05")
       (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
@@ -316,7 +316,7 @@
       (property (name "ki_description") (value "Inverter Open Collect"))
       (property (name "ki_keywords") (value "TTL not inv OpenCol"))
       (sheetpath (names "/") (tstamps "/"))
-      (tstamps "c109800c-69a4-4ba1-a6a6-bc9b5c215315" "5dde6725-0113-4874-94fe-73b60feea49f" "3bc9b170-2055-4845-8add-df131a4a7ab2" "1cd262a3-4e17-43f2-9834-d40e2f7b35b9" "22299673-440b-4185-abb1-9f731b8cbcfd" "ed068ae3-63e0-4603-8403-992ba5b86c6a" "07040913-9b69-43b3-bdbb-92d2d5d78056"))
+      (tstamps "ed068ae3-63e0-4603-8403-992ba5b86c6a" "3bc9b170-2055-4845-8add-df131a4a7ab2" "22299673-440b-4185-abb1-9f731b8cbcfd" "1cd262a3-4e17-43f2-9834-d40e2f7b35b9" "5dde6725-0113-4874-94fe-73b60feea49f" "c109800c-69a4-4ba1-a6a6-bc9b5c215315" "07040913-9b69-43b3-bdbb-92d2d5d78056"))
     (comp (ref "U5")
       (value "74LS174")
       (footprint "Package_DIP:DIP-16_W7.62mm_Socket")
