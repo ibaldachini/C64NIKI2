@@ -11,6 +11,7 @@ Also there is a SolveSpace 3D project for cartridge case with holes for the two 
 - COVER-TOP: top part of cartridge case, SolveSpace and stl files
 - C64NIKI2.csv, C64NIKI2-bom.odt: bom files, first export from KiCad, second is a libreoffice file with bom in leaflet format
 - C64NIKIII-etichetta-CARTRIDGE: libreoffice and pdf file with cartidge label to print and paste on cartridge case
+- C64-Cart-NoSilkS.kicad_mod: C64 cartidge connector from https://github.com/hackup/64kCart
 
 **License**
 
