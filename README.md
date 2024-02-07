@@ -1,4 +1,6 @@
-**C64NIKI2** is a project to rebuild Commodore 64 Italian NIKI 2 cartridge. It has KiCad 7 project with schematic and PCB. Also there is a SolveSpace 3D project for cartridge case with holes for the two buttons.
+**C64NIKI2** is a project to rebuild Commodore 64 Italian NIKI 2 cartridge.  
+It has KiCad 7 project with schematic and PCB.  
+Also there is a SolveSpace 3D project for cartridge case with holes for the two buttons.
 
 **Contents**
 
